@@ -10,3 +10,8 @@ Para rodar as transformações e criar um banco de dados SQLite [comando a parti
 ```bash
 python transformacao/main.py
 ```
+Para rodar o dashboard [comando a partir do diretóro scr]
+
+```bash
+streamlit run dashboard/app.py
+```
