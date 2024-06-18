@@ -1,6 +1,16 @@
 # Projeto Monitoramento de Preço
 
-Este projeto consiste em uma solução ETL (Extração, Transformação e Carga) em Python voltada para monitoramento de preço. Ele fornece uma pipeline que coleta, consolida e gera insights sobre detreminado produto.
+Este projeto consiste em uma solução ETL (Extração, Transformação e Carga) em Python voltada para monitoramento de preço. Ele fornece uma pipeline que coleta, consolida e gera insights sobre tênis esportivos do Mercado Livre.
+
+**Objetivo** 
+
+Realizar uma pesquisa de mercado na categoria de tênis esportivo dentro do mercado livre para avaliar os seguintes pontos:
+
+ * Quais marcas são mais encontradas até a 10ª página.
+ * Qual o preço médio por marca.
+ * Qual a satisfação por marca.
+
+
 
 # Arquitetura
 * Extração: Scrapy
