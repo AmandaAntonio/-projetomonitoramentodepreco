@@ -9,6 +9,7 @@ Este projeto consiste em uma solução ETL (Extração, Transformação e Carga)
 * Banco de Dados: Sqlite3
 
 **Diagrama**
+
 ![Diagrama](img/Diagrama%20Monitoramente%20de%20Preco.drawio.png)
 
 
