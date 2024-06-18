@@ -11,7 +11,6 @@ Este projeto consiste em uma solução ETL (Extração, Transformação e Carga)
 **Diagrama**
 
 
-
 Para rodar o web scraping [comando a partir da diretório coleta]
 
 ```bash
